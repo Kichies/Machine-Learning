@@ -1,6 +1,6 @@
 # 🛍️ K-Means Clustering: Mall Customer Segmentation
 
-Proyek ini adalah pengerjaan Latihan Mandiri dari modul Praktikum Machine Learning Pertemuan 11. Tujuannya adalah mengimplementasikan algoritma K-Means pada dataset baru secara mandiri untuk melihat pola segmentasi.
+Mengimplementasikan algoritma K-Means pada dataset baru secara mandiri untuk melihat pola segmentasi.
 
 ## 📝 Deskripsi Proyek
 Dataset yang digunakan adalah **Mall Customer Segmentation Data** yang diperoleh dari Kaggle. Model ini dibangun untuk mengelompokkan pelanggan mall ke dalam beberapa segmen berdasarkan dua fitur utama:
